@@ -4,7 +4,7 @@ Create your password with python 💫
 How to use?
 # For Termux
 ```Alpine Abuild
-# Install
+INSTALL
 
 pkg upgrade && pkg update
 
@@ -14,7 +14,8 @@ pkg install git
 ```
 
 ```Alpine Abuild
-# Run
+RUN
+
 git clone https://github.com/waceera/password-generator
 
 cd password-generator
@@ -25,7 +26,7 @@ python password.py
 and, done!
 
 # How to exit
-Just click CTRL + C and type in terminal ../
+Type in terminal ../
 
 # Note
 Dont delete the Credits!
