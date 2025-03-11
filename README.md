@@ -29,4 +29,4 @@ and, done!
 Type in terminal ../
 
 # Note
-Dont delete the Credits!
+Dont delete the Credits and Dont forget to star 💫
